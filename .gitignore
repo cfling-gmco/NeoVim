@@ -1,0 +1,12 @@
+*
+!.gitignore
+!.tmux.conf
+!.config/
+!.config/nvim/
+!.config/nvim/lua/
+!.config/nvim/lua/config/
+!.config/nvim/lua/config/options.lua
+!.config/nvim/lua/plugins/
+!.config/nvim/lua/plugins/supermaven.lua
+!.config/nvim/lua/plugins/snacks.lua
+!.config/nvim/lua/plugins/extras.lua
