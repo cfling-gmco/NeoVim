@@ -10,3 +10,5 @@
 !.config/nvim/lua/plugins/supermaven.lua
 !.config/nvim/lua/plugins/snacks.lua
 !.config/nvim/lua/plugins/extras.lua
+!.config/nvim/lua/plugins/rose-pine.lua
+!.config/nvim/lua/plugins/illuminate.lua
