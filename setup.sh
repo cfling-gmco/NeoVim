@@ -40,7 +40,7 @@ setup_dotfiles() {
   ln -sf ~/.dotfiles/.config/nvim/lua/plugins/supermaven.lua ~/.config/nvim/lua/plugins/supermaven.lua
   ln -sf ~/.dotfiles/.config/nvim/lua/plugins/snacks.lua ~/.config/nvim/lua/plugins/snacks.lua
   ln -sf ~/.dotfiles/.config/nvim/lua/plugins/extras.lua ~/.config/nvim/lua/plugins/extras.lua
-  ln -sf ~/.dotfiles/.config/nvim/lua/plugins/rose-pine.lua ~/.config/nvim/lua/plugins/rose-pine.lua
+  ln -sf ~/.dotfiles/.config/nvim/lua/plugins/floromachine.lua ~/.config/nvim/lua/plugins/fluoromachine.lua
   ln -sf ~/.dotfiles/.tmux.conf ~/.tmux.conf
 }
 setup_tmux() {
