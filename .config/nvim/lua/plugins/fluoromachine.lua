@@ -1,4 +1,4 @@
-  {
+return {
         'maxmx03/fluoromachine.nvim',
         lazy = false,
         priority = 1000,
@@ -13,5 +13,4 @@
 
          vim.cmd.colorscheme 'fluoromachine'
         end
-    }
 }
